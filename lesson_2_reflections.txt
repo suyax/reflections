@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 status will be no repository in the file yet. ask for add a repository
 set a master file and know what files in the folder
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is a middle zone between directory and repository.
+it give user choose of preparing for repository.
