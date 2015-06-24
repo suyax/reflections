@@ -5,3 +5,6 @@ set a master file and know what files in the folder
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is a middle zone between directory and repository.
 it give user choose of preparing for repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+use diff
